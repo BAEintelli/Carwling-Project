@@ -1,9 +1,10 @@
 # Crawling_project_kyobo
-![systemflow.jpg](img/systemflow.jpg)
 
+<img src="https://github.com/BAEintelli/Carwling-Project/blob/master/img/systemflow.JPG" width="90%"></img>
 ### Create info
 - made by : Joonyoung Bae, Bitna Bae
 - function : 
+
 		crawling kyobo page
 		Save data to database
 		sending to slack msg
